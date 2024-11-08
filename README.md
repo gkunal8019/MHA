@@ -41,14 +41,14 @@ These images illustrate examples of how the model performs classification on the
 
 ## Project Requirements
 
-- **LLM Model**: LLaMA 3.1 40B
+- **LLM Model**: LLaMA 3.1 70B
 - **Data Processing**: Python, NLP libraries (like Hugging Face Transformers), and data management tools
 - **Model Training**: Ensure model aligns category definitions with Government of India rules and regulations
 
 ## Getting Started
 
 1. **Download Dataset**: Obtain the dataset provided in the hackathon.
-2. **Set Up Environment**: Install Python, LLaMA 3.1 40B, and any other necessary dependencies.
+2. **Set Up Environment**: Install Python, LLaMA 3.1 70B, and any other necessary dependencies.
 3. **Model Training**: Train and fine-tune LLaMA 3.1 on the dataset for accurate classification.
 4. **Evaluation**: Verify the model's classification output aligns with category definitions.
 
@@ -56,9 +56,6 @@ These images illustrate examples of how the model performs classification on the
 
 We welcome contributions! If you have ideas for improving the project, feel free to submit a pull request.
 
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
